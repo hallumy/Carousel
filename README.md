@@ -5,3 +5,8 @@ Carousel/Slide Assignment
 	  shows the last and upon clicking on the next icon while on the last 
 	  image it shows the first
 	* It contains directional icons which are visible when hovered on
+
+To access the live site click on
+	 https://hallumy.github.io/Carousel/
+or
+	 https://replit.com/@Hallumy/Carousel
